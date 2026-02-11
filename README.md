@@ -19,7 +19,7 @@ Este projeto realiza uma análise exploratória de dados (AED) utilizando o data
 ### 1. Clone ou baixe o projeto
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/Doglaum/teste-sctec-inteligencia-artifical.git
 cd desafio_pratico_inteligencia_artificial
 ```
 
@@ -72,9 +72,6 @@ pip install -r requirements.txt
 desafio_pratico_inteligencia_artificial/
 │
 ├── .venv/                  # Ambiente virtual (não versionar)
-├── context/                # Arquivos de contexto e materiais
-│   └── ...
-│
 ├── ncr_ride_bookings.csv   # Dataset das corridas da Uber
 ├── teste_pratico.ipynb     # Notebook com a análise exploratória
 ├── requirements.txt        # Dependências do projeto
