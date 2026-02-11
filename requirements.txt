@@ -1,0 +1,10 @@
+# Análise de Dados
+pandas
+
+# Visualização de Dados
+matplotlib
+
+# Ambiente de desenvolvimento
+jupyter
+notebook
+ipykernel
